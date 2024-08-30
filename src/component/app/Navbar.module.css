@@ -1,0 +1,22 @@
+.nav{
+    background-color: #316490;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding: 10px 12px;
+    align-items: center;
+    color: whitesmoke;
+}
+
+.navOptions{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+}
+
+.companyName>p{
+    font-size: large;
+    font-weight: bold;
+}
